@@ -26,7 +26,6 @@
 
 
 
-
 <h3>you have 4 different shoes to choose from</h3>
 
 <div>
