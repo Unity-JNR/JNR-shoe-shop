@@ -8,7 +8,13 @@
     <link rel="stylesheet" href="main.css">
 </head>
 <body>
-    
+<nav>
+    <ul>
+        <li><a href="JNR.php">back</a></li>
+        <li><a href="cart.php">Cart</a></li>
+      
+    </ul>
+</nav> 
 
 
 <div class="row">

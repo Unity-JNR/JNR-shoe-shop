@@ -26,58 +26,17 @@
 
 
 
-<br>
 
-<!-- <div class="carousel">
-    <button class="carousel__button carousel__button--left">&#8656;</button>
-    <div class="carousel__track-container">
-       <ul class="carousel__track">
-        <li class="carousel__slide">
-            <img class="carousel__images"src="img/addidas1.jpeg" alt="">
-        </li>
-        <li class="carousel__slide">
-        <img class="carousel__images"src="img/nike3.jpeg" alt="">
-        </li>
-        <li class="carousel__slide">
-        <img class="carousel__images"src="img/puma1s.jpeg" alt="">
-        </li>
-        <li class="carousel__slide">
-        <img class="carousel__images" src="img/jordans4.jpeg" alt="">
-        </li>
-       </ul>
-    </div>
-    <button class="carousel__button carousel__button--right">&#8658;</button>
+<h3>you have 4 different shoes to choose from</h3>
 
-    <div class="carousel__nav">
-        <button class="carousel__indicator"></button>
-        <button class="carousel__indicator"></button>
-        <button class="carousel__indicator"></button>
-        <button class="carousel__indicator"></button>
-    </div>
-</div> -->
-
-
-
-
- 
-    
-<!-- </div> -->
-
-<div class="slider slider-1">
-    <!-- Your content -->
-    <div class="photos">
-        <img src="img/addidas1.jpeg" class="shown">
-        <img src="img/jordans3.jpeg">
-        <img src="img/nike3.jpeg">
-        <img src="img/puma3.jpeg">
-        <!-- Prev/next buttons -->
-        <div class="buttons">
-            <div class="prev">&#8656;</div>
-            <div class="next">&#8658;</div>
-        </div>
-    </div>
+<div>
+    <img src="img/addidas1.jpeg" alt="">   
+    <img src="img/jordans2.jpeg" alt="">   
+    <img src="img/nike1.jpeg" alt="">   
+    <img src="img/puma1s.jpeg" alt="">   
 </div>
 
+<P>please click on navigation tab Nike, adidas, pumas or jordans to buy your shoes</P>
 
     
 </body>
